@@ -5853,6 +5853,18 @@ header .mob_menu_btn.active .icon + .icon
     margin-top: 16px;
 }
 
+.task_info .terms .desc a
+{
+    color: #fff;
+
+    transition: color .1s linear;
+}
+
+.task_info .terms .desc a:hover
+{
+    color: #fcaf17;
+}
+
 
 
 .task_info .performance
