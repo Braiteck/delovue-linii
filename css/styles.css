@@ -703,6 +703,9 @@ button
 .smiles .mini_modal .section img
 {
     display: block;
+
+    max-width: 100%;
+    max-height: 100%;
 }
 
 
